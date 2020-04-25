@@ -19,5 +19,7 @@ namespace testing
         public string Name { get; set; }
         public bool RegisteredOnZoom { get; set; }
         public string Location { get; set; }
+        public string Gender { get; set; }
+        public string DisplayGender { get; set; }
     }
 }
